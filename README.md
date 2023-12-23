@@ -35,6 +35,7 @@ First name = Amogha
 Last name = Devineni
 Phone = 1112223334
 
-![Alt text](image.png)
+![image](https://github.com/AmoghaDevineni/PhoneBook/assets/55223129/d12ee72b-99fc-424b-9774-a69e46175c85)
+
 
 
